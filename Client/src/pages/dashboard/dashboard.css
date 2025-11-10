@@ -1,0 +1,24 @@
+.barchartCard {
+    height: 350px;
+    overflow: hidden;
+}
+
+.barchartWidth {
+    max-width: 100%;
+}
+
+.androidbar {
+    width: 64%;
+}
+
+.iosbar {
+    width: 25%;
+}
+
+.windowsbar {
+    width: 74%;
+}
+
+.macbar {
+    width: 14%;
+}
